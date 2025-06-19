@@ -1,0 +1,25 @@
+{
+  "name": "active-nutzer",
+  "version": "1.0.0",
+  "description": "App deutsch zu lernen",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadullah-TANRIKULU/active-Nutzer.git"
+  },
+  "keywords": [
+    "deutsch",
+    "german",
+    "lernen",
+    "learn"
+  ],
+  "author": "Sadullah-TANRIKULU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sadullah-TANRIKULU/active-Nutzer/issues"
+  },
+  "homepage": "https://github.com/Sadullah-TANRIKULU/active-Nutzer#readme"
+}
